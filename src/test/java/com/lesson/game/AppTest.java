@@ -113,6 +113,12 @@ public class AppTest {
         assertEquals( newCharacter.getInventory(), inventory );
    }
 	
+	@Test
+	void assertingTrue() {
+		assertTrue(true);
+	}
+
+	
 	
 
 

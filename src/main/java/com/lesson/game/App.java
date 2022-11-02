@@ -100,7 +100,7 @@ public class App {
 			System.out.println("No magic was done...");
 		}
 		
-		System.out.println("magic hash damage: " + theWizard.doMagicHashMap("fire blast"));
+//		System.out.println("magic hash damage: " + theWizard.doMagicHashMap("fire blast"));
 		
 		HashMap<String, Integer> magic = new HashMap<>();
 		magic.put("heal", 10);
